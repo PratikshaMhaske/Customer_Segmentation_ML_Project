@@ -172,5 +172,10 @@ customer-segmentation/
 
 ---
 
-👩‍💻 Author
+**👩‍💻 Author**
 
+**Er. Pratiksha Mhaske**
+
+**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
+
+**GitHub:** https://github.com/PratikshaMhaske
