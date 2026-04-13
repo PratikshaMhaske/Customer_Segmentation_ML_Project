@@ -1,6 +1,6 @@
-🧠 Customer Segmentation using Machine Learning
+🧠 **Customer Segmentation using Machine Learning**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project focuses on customer segmentation using unsupervised machine learning techniques to identify distinct groups of customers based on their purchasing behavior, demographics, and engagement patterns.
 
@@ -12,7 +12,7 @@ The goal is to help businesses:
 
 ---
 
-🎯 Problem Statement
+🎯 **Problem Statement**
 
 Businesses often have large customer datasets but lack insights into customer groups and behavior patterns.
 
@@ -24,7 +24,7 @@ This project solves that problem by:
 
 ---
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 - Python 🐍
 - Pandas, NumPy
@@ -34,7 +34,7 @@ This project solves that problem by:
 
 ---
 
-📊 Dataset Description
+📊 **Dataset Description**
 
 The dataset contains customer information such as:
 
@@ -46,7 +46,7 @@ The dataset contains customer information such as:
 
 ---
 
-⚙️ Project Workflow
+⚙️ **Project Workflow**
 
 1. Data Preprocessing
 
@@ -83,7 +83,7 @@ Implemented and compared multiple clustering techniques:
 
 ---
 
-📈 Model Evaluation
+📈 **Model Evaluation**
 
 Evaluation metric used:
 
@@ -98,7 +98,7 @@ DBSCAN| 3| ~0.35
 
 ---
 
-✅ Final Model Selection
+✅ **Final Model Selection**
 
 Although DBSCAN showed a higher silhouette score, K-Means was selected for deployment because:
 
@@ -108,7 +108,7 @@ Although DBSCAN showed a higher silhouette score, K-Means was selected for deplo
 
 ---
 
-🧩 Customer Segments Identified
+🧩 **Customer Segments Identified**
 
 Cluster| Segment Name| Description
 0| Premium Customers| High spenders, frequent buyers
@@ -117,7 +117,7 @@ Cluster| Segment Name| Description
 
 ---
 
-🚀 Deployment (Streamlit App)
+🚀 **Deployment (Streamlit App)**
 
 Features of the app:
 
@@ -134,7 +134,7 @@ Features of the app:
 
 ---
 
-📂 Project Structure
+📂 **Project Structure**
 
 customer-segmentation/
 │
@@ -147,7 +147,7 @@ customer-segmentation/
 
 ---
 
-⚠️ Challenges Faced
+⚠️ **Challenges Faced**
 
 - Ensuring consistent preprocessing between training and deployment
 - Handling categorical encoding dynamically
@@ -155,7 +155,7 @@ customer-segmentation/
 
 ---
 
-💡 Key Learnings
+💡 **Key Learnings**
 
 - Importance of data preprocessing in clustering
 - Impact of scaling on distance-based algorithms
@@ -164,7 +164,7 @@ customer-segmentation/
 
 ---
 
-📬 Future Improvements
+📬 **Future Improvements**
 
 - Improve clustering using advanced techniques
 - Add visualization dashboard
